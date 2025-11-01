@@ -1,6 +1,5 @@
-1. Switch to master branch
-2. download zip
-3. extract zip
-4. open in Android Studio
-5. .\gradlew :shared:build
-6. Select “androidApp” > Run on emulator.
+1. download zip
+2. extract zip
+3. open in Android Studio
+4. .\gradlew :shared:build
+5. Select “androidApp” > Run on emulator.
