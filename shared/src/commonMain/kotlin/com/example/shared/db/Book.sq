@@ -1,0 +1,17 @@
+CREATE TABLE books (
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    title TEXT NOT NULL,
+    dewey TEXT NOT NULL
+);
+
+selectAll:
+SELECT id, title, dewey
+FROM books
+ORDER BY id DESC;
+
+insertBook:
+INSERT INTO books(title, dewey)
+VALUES (?, ?);
+
+deleteAll:
+DELETE FROM books;
