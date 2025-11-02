@@ -1,4 +1,4 @@
-This is a prototype mobile application to assist in the use of library systems to find books. It is written in Kotlin Multiplatform in the Android Studio IDE.
+This is a prototype mobile application to assist in the use of library systems (Dewey Decimal Classification number) to find books. It is written in Kotlin Multiplatform in the Android Studio IDE.
 
 To install:
 
