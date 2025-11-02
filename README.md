@@ -1,3 +1,7 @@
+This is a prototype mobile application to assist in the use of library systems to find books. It is written in Kotlin Multiplatform in the Android Studio IDE.
+
+To install:
+
 1. download zip
 2. extract zip
 3. open in Android Studio
